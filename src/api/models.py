@@ -36,6 +36,7 @@ class LanguageEnum(str, Enum):
     sk = "sk"  # Slovak
     sl = "sl"  # Slovenian
     es = "es"  # Spanish
+    sv = "sv"  # Swedish
     te = "te"  # Telugu
     tr = "tr"  # Turkish
     uk = "uk"  # Ukrainian
